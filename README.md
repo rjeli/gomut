@@ -40,5 +40,5 @@ for i in range(0, 2):
     ch1: lambda x: print(x),
     ch2: lambda x: print(x),
   })
-# takes 3 seconds
+# takes 2 seconds
 ```
