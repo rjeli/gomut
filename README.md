@@ -24,6 +24,7 @@ print(result.get()) # blocks
 
 go(slowly_square, result, 13)
 go(slowly_square, result, 14)
+result.close()
 for r in result:
   print(r)
 # takes one second, not two
