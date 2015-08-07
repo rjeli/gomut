@@ -2,7 +2,7 @@
 
 Go-style multithreading for python.
 
-```
+```python
 c = chan()
 c.put(1)
 c.put(2)
